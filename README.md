@@ -58,7 +58,7 @@ Ultimately, the weights of the neuron will be optimized for the provided trainin
 
 
 Code Output :-
-
+![Screenshot](N_N.png)
 
 So , we can see the output 0.99999853 which is close to 1 (Expected Value)
 
